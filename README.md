@@ -1,6 +1,6 @@
 # Task of Web Development Internship at Prodigy Infotech.
 
-# My Weather App
+# SkyCast : My Weather App
 
 A simple web-based Weather app that provides current weather conditions and forecasts.
 
