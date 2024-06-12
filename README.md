@@ -25,7 +25,3 @@ To run this app locally, follow these steps:
 - CSS
 - JavaScript
 - OpenWeatherMap API
-
-## API Key
-
-This app uses the OpenWeatherMap API to fetch weather data. You'll need to sign up for an API key [here](https://openweathermap.org/) and replace `YOUR_API_KEY` in the code with your actual API key.
