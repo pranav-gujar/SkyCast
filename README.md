@@ -1,5 +1,3 @@
-# Task of Web Development Internship at Prodigy Infotech.
-
 # SkyCast : The Weather App
 
 A simple web-based Weather app that provides current weather conditions and forecasts.
@@ -8,8 +6,15 @@ A simple web-based Weather app that provides current weather conditions and fore
 
 To run this app locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/pranav-gujar/weather-app.git`
-2. Open `index.html` in your web browser.
+1. Clone this repository:
+ `git clone https://github.com/pranav-gujar/SkyCast.git`
+
+
+2. Navigate:
+ `cd SkyCast`
+
+
+3. Open `index.html` in your web browser.
 
 ## Usage
 
