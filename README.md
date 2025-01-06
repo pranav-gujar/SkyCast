@@ -1,4 +1,4 @@
-# SkyCast : The Weather App
+# SkyCast : The Weather WebApp
 
 A simple web-based Weather app that provides current weather conditions and forecasts.
 
